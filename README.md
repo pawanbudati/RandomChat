@@ -58,9 +58,9 @@ Open `http://localhost:8080` in two browser tabs/devices.
 
 ## 🙋‍♂️ Author
 
-**Hari Thatikonda**\
-📫 [haribabutatikonda3@gmail.com](mailto:haribabutatikonda3@gmail.com)\
-🔗 [GitHub](https://github.com/thughari) | [LinkedIn](https://linkedin.com/in/hari-thatikonda)
+**Pavan Budati**\
+📫 [pawan1122143@gmail.com](mailto:pawan1122143@gmail.com)\
+🔗 [GitHub](https://github.com/pawanbudati) | [LinkedIn](https://www.linkedin.com/in/pavan-budati/)
 
 ---
 
